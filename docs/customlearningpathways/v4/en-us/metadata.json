@@ -161,34 +161,75 @@
       "Id": "e9d69805-edb5-43da-8258-5520000bf3a6",
       "Name": "Sway",
       "Subjects": []
+    },
+    {
+      "Id": "07a0484a-436e-4fbd-942d-c9d1fa781eb7",
+      "Name": "Business Central",
+      "Subjects": [
+        {
+          "Id": "aa153e87-019f-43d7-9ef5-4d489cd20002",
+          "Name": "Process"
+        },
+        {
+          "Id": "4cade110-f31c-4823-a01d-1091a1fa3dff",
+          "Name": "Setup"
+        },
+        {
+          "Id": "76d8b288-9b01-47f4-9f6c-e2c95e0d4c70",
+          "Name": "Master Data"
+        }
+      ]
+    },
+    {
+      "Id": "f0a55c4a-663c-418d-be3e-ed62f88cddfc",
+      "Name": "Dynamics NAV 2018",
+      "Subjects": [
+        {
+          "Id": "aa153e87-019f-43d7-9ef5-4d489cd20002",
+          "Name": "Process"
+        },
+        {
+          "Id": "4cade110-f31c-4823-a01d-1091a1fa3dff",
+          "Name": "Setup"
+        },
+        {
+          "Id": "76d8b288-9b01-47f4-9f6c-e2c95e0d4c70",
+          "Name": "Master Data"
+        }
+      ]
+    },
+    {
+      "Id": "bf406422-dd69-4955-a484-8a932261adbc",
+      "Name": "ShipWorks",
+      "Subjects": []
     }
   ],
   "Categories": [
     {
-      "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
-      "Name": "Products",
+      "Id": "6a6a3d71-906b-4ffc-b10d-3d73d8a94937",
+      "Name": "Sales",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Microsoft",
+      "Source": "Russo",
       "SubCategories": [
         
         {
-          "Id": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-          "Name": "SharePoint",
-          "Image": "images/categories/sharepoint.png",
-          "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+          "Id": "2ca6d3a9-bb65-4dd8-b7da-3e5ee4508b8a",
+          "Name": "Business Central",
+          "Image": "images/categories/businessCentral.png",
+          "TechnologyId": "07a0484a-436e-4fbd-942d-c9d1fa781eb7",
           "SubjectId": null,
           "Source": "Microsoft",
           "SubCategories": []
         },
         {
-          "Id": "daeade40-9dfc-4d82-84be-9ae7544829dc",
-          "Name": "Forms",
-          "Image": "images/categories/forms_training.png",
-          "TechnologyId": "309b4120-9366-4257-bc06-1d9dd090fe85",
+          "Id": "839e78d0-ef7e-48d8-95d8-b32502cf98eb",
+          "Name": "Customers",
+          "Image": "images/categories/Collaboration_Category.png",
+          "TechnologyId": "",
           "SubjectId": null,
-          "Source": "Microsoft",
+          "Source": "Russo",
           "SubCategories": []
         }
       ]
@@ -249,7 +290,8 @@
     "FastTrack",
     "M365",
     "Microsoft",
-    "LinkedIn"
+    "LinkedIn",
+    "Russo"
   ],
   "Levels": [
     {

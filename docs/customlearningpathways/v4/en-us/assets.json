@@ -1,24 +1,26 @@
 [
   {
-    "Id": "28dad67b-adb8-4df5-822b-677d81968eda",
-    "Title": "Add Text and Tables to your modern page",
+    "Id": "a1bb3977-eb7a-4102-87cf-697524c93049",
+    "Title": "Creating a Sales Quote",
     "Description": "",
-    "Url": "https://support.office.com/en-gb/client/add-text-and-tables-to-your-page-with-the-text-web-part-729c0aa1-bc0d-41e3-9cde-c60533f2c801?embed=true&ns=trainingservices&version=1",
-    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
-    "SubjectId": "",
+    "Url": "https://docs.microsoft.com/en-us/dynamics365/business-central/sales-how-make-offers",
+    "TechnologyId": "07a0484a-436e-4fbd-942d-c9d1fa781eb7",
+    "SubjectId": "aa153e87-019f-43d7-9ef5-4d489cd20002",
     "Source": "Microsoft",
     "StatusTagId": "ecee7e26-7ac3-41b2-8d06-90843e3ec7a7",
     "StatusNote": ""
   },
   {
-    "Id": "39a23830-452d-474c-ae1f-47a6ebefa21a",
-    "Title": "Create a form",
+    "Id": "7607ef94-6c0f-453f-9900-f8036cb95b1e",
+    "Title": "First interactions for a new customer",
     "Description": "",
-    "Url": "https://support.office.com/en-us/client/39a23830-452d-474c-ae1f-47a6ebefa21a?embed=true&ns=trainingservices&version=1",
-    "TechnologyId": "309b4120-9366-4257-bc06-1d9dd090fe85",
+    "Url": "",
+    "TechnologyId": "",
     "SubjectId": "",
-    "Source": "Microsoft",
+    "Source": "Russo",
     "StatusTagId": "",
     "StatusNote": ""
   }
 ]
+
+
