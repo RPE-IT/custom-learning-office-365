@@ -20,6 +20,28 @@
     "Source": "Russo",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+  {
+    "Id": "7607ef94-6c0f-453f-9900-f8036cb95b1e",
+    "Title": "Manage tickets from anywhere",
+    "Description": "",
+    "Url": "https://community.spiceworks.com/support/help-desk/docs/working-the-help-desk#tickets-anywhere",
+    "TechnologyId": "bf406422-dd69-4955-a484-8a932261adbc",
+    "SubjectId": "",
+    "Source": "SpiceWorks",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "4679b3f4-c334-4a87-86f5-60d77f3b08d0",
+    "Title": "Add a user",
+    "Description": "",
+    "Url": "https://docs.microsoft.com/en-us/microsoft-365/admin/add-users/add-users?view=o365-worldwide",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
 ]
 

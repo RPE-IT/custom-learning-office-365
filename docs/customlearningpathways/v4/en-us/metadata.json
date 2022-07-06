@@ -233,6 +233,35 @@
           "SubCategories": []
         }
       ]
+    },
+    {
+      "Id": "df776385-a7df-4010-a2e7-38e36f401e19",
+      "Name": "IT",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Russo",
+      "SubCategories": [
+        
+        {
+          "Id": "fdd99d82-b89f-422f-9e27-ea6b3dfe4c83",
+          "Name": "HelpDesk",
+          "Image": "images/categories/spiceworks.png",
+          "TechnologyId": "bf406422-dd69-4955-a484-8a932261adbc",
+          "SubjectId": null,
+          "Source": "SpiceWorks",
+          "SubCategories": []
+        },
+        {
+          "Id": "09c5de71-a283-4a92-9464-f0ec48926ff1",
+          "Name": "M365 Admin",
+          "Image": "images/categories/office_365_apps_basic_training.png",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
+      ]
     }
   ],
   "Audiences": [
@@ -291,7 +320,8 @@
     "M365",
     "Microsoft",
     "LinkedIn",
-    "Russo"
+    "Russo",
+    "SpiceWorks"
   ],
   "Levels": [
     {

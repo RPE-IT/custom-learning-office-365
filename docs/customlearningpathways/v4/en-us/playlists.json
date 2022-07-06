@@ -32,5 +32,39 @@
     "Assets": [
       "7607ef94-6c0f-453f-9900-f8036cb95b1e"
     ]
+  },
+  {
+    "Id": "071f86f1-f9d7-4102-88f3-6b4905898701",
+    "Title": "Dive in to the HelpDesk",
+    "Image": "images/playlists/microsoft-365-accessibility-overview-resource.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
+    "TechnologyId": "bf406422-dd69-4955-a484-8a932261adbc",
+    "SubjectId": "",
+    "Source": "SpiceWorks",
+    "CatId": "fdd99d82-b89f-422f-9e27-ea6b3dfe4c83",
+    "Description": "Get started learning about managing the HelpDesk tickets.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "7607ef94-6c0f-453f-9900-f8036cb95b1e"
+    ]
+  },
+  {
+    "Id": "b87f2363-c92b-4eb2-aac3-4ee3f43590bf",
+    "Title": "Overview of the Microsoft 365 Admin Portal",
+    "Image": "images/playlists/use_across_org.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "09c5de71-a283-4a92-9464-f0ec48926ff1",
+    "Description": "Take your first steps with a brief overview of the admin portal.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "4679b3f4-c334-4a87-86f5-60d77f3b08d0"
+    ]
   }
 ]

@@ -19,7 +19,8 @@
   }],
   "AssetOrigins": [
     "https://support.office.com",
-    "https://docs.microsoft.com"
+    "https://docs.microsoft.com",
+    "https://community.spiceworks.com"
   ],
   "Languages": [
     "en-US"
