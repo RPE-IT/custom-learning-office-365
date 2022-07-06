@@ -1,25 +1,36 @@
 [
   {
-    "Id": "959166d8-1cb7-4315-af20-541598ebecaa",
-    "Title": "Six Simple Steps - Welcome to Microsoft 365",
-    "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
+    "Title": "Modern SharePoint Editing Experience",
+    "Image": "images/playlists/share_and_coauthor.png",
+    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
+    "AudienceId": "71ec9903-1498-49e2-8514-428e35617b18",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
     "SubjectId": "",
     "Source": "Microsoft",
-    "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-    "Description": "Get started with Microsoft 365 in six simple steps. Sign in and get started at office.com, create and save files securely in the cloud, share files and collaborate with others in real time, work with your team in teams and channels with Microsoft teams, set up your mobile apps, and try new things.",
+    "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
+    "Description": "Learn about the text editor web part to add text content, formatting and display.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "365-378767af-7ac3-4d68-9d0f-709b6948a76b",
-      "1fa93876-0318-4622-b473-142a3bfd6495",
-      "fb440590-1b4d-4562-94ba-61123b299e3d",
-      "be096b45-709c-473a-afb9-f7a998b3f435",
-      "4a358470-a1a3-4796-84ec-45adf4895473",
-      "c0a66323-d0ac-4c7f-8aa3-8eca9bf92817",
-      "b7f52310-54dd-4701-be3c-c0acbb8d998b"
+      "28dad67b-adb8-4df5-822b-677d81968eda"
+    ]
+  },
+  {
+    "Id": "d9ce4776-272c-4b62-8f17-d71326e71230",
+    "Title": "Getting started with Microsoft Forms",
+    "Image": "images/playlists/forms_quick_startx.png",
+    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
+    "AudienceId": "71ec9903-1498-49e2-8514-428e35617b18",
+    "TechnologyId": "309b4120-9366-4257-bc06-1d9dd090fe85",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "daeade40-9dfc-4d82-84be-9ae7544829dc",
+    "Description": "Learn about the text editor web part to add text content, formatting and display.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "39a23830-452d-474c-ae1f-47a6ebefa21a"
     ]
   }
 ]

@@ -165,28 +165,29 @@
   ],
   "Categories": [
     {
-      "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
-      "Name": "Get started",
+      "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
+      "Name": "Products",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Microsoft",
       "SubCategories": [
+        
         {
-          "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-          "Name": "First days",
-          "Image": "images/categories/first_days.png",
-          "TechnologyId": "",
-          "SubjectId": "",
+          "Id": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
+          "Name": "SharePoint",
+          "Image": "images/categories/sharepoint.png",
+          "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+          "SubjectId": null,
           "Source": "Microsoft",
           "SubCategories": []
         },
         {
-          "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-          "Name": "Recommended",
-          "Image": "images/categories/recommended.png",
-          "TechnologyId": "",
-          "SubjectId": "",
+          "Id": "daeade40-9dfc-4d82-84be-9ae7544829dc",
+          "Name": "Forms",
+          "Image": "images/categories/forms_training.png",
+          "TechnologyId": "309b4120-9366-4257-bc06-1d9dd090fe85",
+          "SubjectId": null,
           "Source": "Microsoft",
           "SubCategories": []
         }
