@@ -202,6 +202,49 @@
       "Id": "bf406422-dd69-4955-a484-8a932261adbc",
       "Name": "ShipWorks",
       "Subjects": []
+    },
+    {
+      "Id": "adada4be-50ca-4278-a5d8-d237d93f4e25",
+      "Name": "Windows Administration",
+      "Subjects": [
+        {
+          "Id": "2a28d4bf-55de-49ba-946c-bf0d5e9c1f6e",
+          "Name": "Active Directory"
+        },
+        {
+          "Id": "77f53bee-427c-4945-9917-1d09e6120886",
+          "Name": "DHCP"
+        },
+        {
+          "Id": "3f417325-6e83-43df-b4a7-72e6141f5184",
+          "Name": "Print Management"
+        }
+      ]
+    },
+    {
+      "Id": "ec049818-3b85-4d3c-bbec-e709cdf20142",
+      "Name": "SSRS",
+      "Subjects": []
+    },
+    {
+      "Id": "376c3209-0723-435a-a063-6ca72e97a36b",
+      "Name": "TeamViewer",
+      "Subjects": []
+    },
+    {
+      "Id": "75080219-68c2-4a9b-a462-fc96eb7f6926",
+      "Name": "Call Center Agent",
+      "Subjects": []
+    },
+    {
+      "Id": "71bc8ea9-42d1-431c-a092-cf40b8835dbd",
+      "Name": "PowerBi",
+      "Subjects": []
+    },
+    {
+      "Id": "e4906049-c271-47ee-9ea7-b63018af331e",
+      "Name": "PowerApps",
+      "Subjects": []
     }
   ],
   "Categories": [
@@ -236,7 +279,7 @@
     },
     {
       "Id": "df776385-a7df-4010-a2e7-38e36f401e19",
-      "Name": "IT",
+      "Name": "Information Technology",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
